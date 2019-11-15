@@ -1,0 +1,3 @@
+name: kubecon2019-demo
+runtime: nodejs
+description: Demo project for KubeCon 2019
